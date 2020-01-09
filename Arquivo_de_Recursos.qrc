@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>Imagens/planofundo.jpg</file>
+        <file>Imagens/Botão-Desliga-em-png-queroiamgem-Ceiça-Crispim (1).jpg</file>
+        <file>Imagens/Botão-Desliga-em-png-queroiamgem-Ceiça-Crispim (1).png</file>
+        <file>Imagens/ICONE_IRRI.jpg</file>
+        <file>Imagens/ICONE_IRRI.png</file>
+        <file>Imagens/icone_irrigacao.jpg</file>
+        <file>Imagens/icone_irrigacao.png</file>
+        <file>Imagens/off-1292831_960_720.jpg</file>
+        <file>Imagens/off-1292831_960_720.webp</file>
+        <file>Imagens/tela fundo.jpg</file>
+    </qresource>
+</RCC>

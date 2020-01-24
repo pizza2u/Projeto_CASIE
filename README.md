@@ -38,9 +38,6 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
   
   
   
-  
-  
-  
   **Feito por [Sara Victória](https://github.com/pizza2u), [Victor Emanuel](https://github.com/vicgomes) e [Ildja Vivianne](https://github.com/ildja)**
   
   
@@ -49,4 +46,4 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
   
   * Ildja 
   * Victor 
-  * Sara ``email: sara.nobrega@academico.ifpb.edu.br            instagram: @pizz5a``
+  * Sara: ``email: sara.nobrega@academico.ifpb.edu.br            instagram: @pizz5a``

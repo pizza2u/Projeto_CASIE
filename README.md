@@ -16,8 +16,8 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
        * [ Informações geradas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-geradas)
        * [Formas para acionar](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#formas)
        
-   * [Utilização do site]
-       * [Estatísticas]
+   * [Utilização do site](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#utiliza%C3%A7%C3%A3o-do-site)
+       * [Estatísticas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#estast%C3%ADsticas)
 * [Informações técnicas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
     * [Materiais](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#materiais)
     * [Protótipo](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#prot%C3%B3tipo)

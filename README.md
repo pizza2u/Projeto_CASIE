@@ -12,6 +12,7 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
 * [Manual]
    * [Como funciona o CASIE]
    * [Software do CASIE]
+       * [Acionamento]
    * [Utilização do site:]
        * [Estatísticas]
 * [Informações técnicas]

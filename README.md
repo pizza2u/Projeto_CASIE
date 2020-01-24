@@ -17,10 +17,8 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
        * [Estatísticas]
 * [Informações técnicas]
     * [Materiais]
-      * [Sensores]
-          * [DHT22]
-          * [Sensor de umidade do solo]
-          * [LDR]
+        * [Sensores]
+        * [Protótipo]
  
     * [Válvula]
     
@@ -42,7 +40,12 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
   
   
   
+  ## Informações Técnicas
   
+  ### Materiais
+   * [DHT22]
+   * [Sensor de umidade do solo]
+   * [LDR]
   
   
   

@@ -12,7 +12,7 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
 * [Manual do Usuário](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#manual)
    * [Como funciona o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#como-funcionar-o-casie)
    * [Software do CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#software-do-casie)
-       * [Acionamento da válvula](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#acionamento-da-v%C3%A1lvula)
+       * [Conexão e Acionamento da válvula](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#acionamento-da-v%C3%A1lvula)
        * [ Informações geradas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-geradas)
        * [Formas para acionar](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#formas)
        
@@ -34,17 +34,20 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   
   ## Manual
   A finalidade do projeto é levar informações sobre o estado de características que influenciam na vida da planta. Além de obter opções para cuidar da umidade e alimentação da vegetação. As informações podem ser acessadas apenas ao entrar no [site]().
+  
   ### Como funcionar o CASIE
+  A priori, o funcionamento é definido a partir da interface QT Creator
   
   
   
   ### Software do CASIE
+   O software do programa foi projetado na interface QT Creator como forma para comandar a válvula e mostrar dados recolhidos pelos sensores.
   
-  ##### Acionamento da Válvula
+  ##### Conexão e Acionamento da Válvula
   
   ##### Informações Geradas
   
-  As principais informações que serão geradas são: Umidade do solo, umidade do ar, luminosidade, e 
+  As principais informações que serão geradas são: Umidade do solo,umidade e temperatura do ar, e luminosidade.
   
   ##### Formas
    *  Automática

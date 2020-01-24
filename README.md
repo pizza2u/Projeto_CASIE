@@ -26,7 +26,7 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
  * ####  `` Para quê serve o CASIE ``
   `` O CASIE é uma ferramenta que busca verificar as melhores condições de irrigação para planta, além de realizar o manejo em relação a aguagem. Mas também oferece a opção manual, caso o usuário queira realizar a prática.``
   
-  
+  ## Manual
   
   
   

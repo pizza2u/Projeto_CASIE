@@ -78,6 +78,6 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   ## Para mais informações
  #### Contato
   
-  * Ildja 
-  * Victor 
-  * Sara: ``email: sara.nobrega@academico.ifpb.edu.br            instagram: @pizz5a``
+  * Ildja : `` ildjaviviane1@gmail.com       ``
+  * Victor : ``gomes.victor@academico.ifpb.edu.br ``
+  * Sara: ``email: sara.nobrega@academico.ifpb.edu.br ``

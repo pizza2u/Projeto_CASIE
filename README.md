@@ -16,13 +16,12 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
        * [ Informações geradas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-geradas)
        * [Formas para acionar](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#formas)
        
-   * [Utilização do site:]
+   * [Utilização do site]
        * [Estatísticas]
 * [Informações técnicas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
     * [Materiais](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#materiais)
     * [Protótipo](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#prot%C3%B3tipo)
-    
-* [Página Web]
+    * [Página Web]
 * [Para mais informações](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-mais-informa%C3%A7%C3%B5es)
     * [Contato](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#contato)
 
@@ -47,7 +46,7 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
    * Automática
    * Manual
   
-  
+  ## Utilização do Site
   ## Informações Técnicas
   
   ### Materiais
@@ -56,6 +55,8 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
    * LDR
   
   ### Protótipo
+  
+  ### Página Web
   
   
   

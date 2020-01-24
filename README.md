@@ -47,6 +47,7 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
    * Manual
   
   ## Utilização do Site
+  ### Estastísticas 
   ## Informações Técnicas
   
   ### Materiais

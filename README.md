@@ -9,13 +9,21 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
 ## Sumário
 * [Sobre CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#sobre-casie)
    * [Para quê serve o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-qu%C3%AA-serve-o-casie)
-* [Manual]
-   * [Como funciona o CASIE]
+* [Manual](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#manual)
+   * [Como funciona o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#como-funcionar-o-casie)
    * [Software do CASIE]
        * [Acionamento]
    * [Utilização do site:]
        * [Estatísticas]
 * [Informações técnicas]
+    * [Materiais]
+      * [Sensores]
+          * [DHT22]
+          * [Sensor de umidade do solo]
+          * [LDR]
+ 
+    * [Válvula]
+    
 * [Página Web]
 * [Para mais informações](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-mais-informa%C3%A7%C3%B5es)
     * [Contato](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#contato)

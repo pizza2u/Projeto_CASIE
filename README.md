@@ -5,7 +5,7 @@ Projeto da 3ª avaliação da disciplina de Técnicas de Programação 2019.2
 Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Arduino Uno.
 
 --------------------------------------------------------------------------------------------
-**Feito por [Sara Victória](https://github.com/pizza2u), [Victor Emanuel](https://github.com/vicgomes) e [Ildja Vivianne](https://github.com/ildja)**
+
 ## Sumário
 * [Sobre CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#sobre-casie)
    * [Para quê serve o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-qu%C3%AA-serve-o-casie)
@@ -25,3 +25,28 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
 
  * ####  `` Para quê serve o CASIE ``
   `` O CASIE é uma ferramenta que busca verificar as melhores condições de irrigação para planta, além de realizar o manejo em relação a aguagem. Mas também oferece a opção manual, caso o usuário queira realizar a prática.``
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  **Feito por [Sara Victória](https://github.com/pizza2u), [Victor Emanuel](https://github.com/vicgomes) e [Ildja Vivianne](https://github.com/ildja)**
+  
+  
+  ## Para mais informações
+     #### Contato
+  
+  * Ildja 
+  * Victor 
+  * Sara ``email: sara.nobrega@academico.ifpb.edu.br            instagram: @pizz5a``

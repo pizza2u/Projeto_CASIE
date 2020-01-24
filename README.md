@@ -5,8 +5,8 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
 
 **Feito por [Sara Victória](https://github.com/pizza2u), [Victor Emanuel](https://github.com/vicgomes) e [Ildja Vivianne](https://github.com/ildja)**
 ## Sumário
-* [Sobre CASIE]
-   * [Para quê serve o CASIE]
+* [Sobre CASIE]()
+   * [Para quê serve o CASIE]()
 * [Manual]
    * [Como funciona o CASIE]
    * [Software do CASIE]

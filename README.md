@@ -9,17 +9,19 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
 ## Sumário
 * [Sobre CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#sobre-casie)
    * [Para quê serve o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-qu%C3%AA-serve-o-casie)
-* [Manual](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#manual)
+* [Manual do Usuário](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#manual)
    * [Como funciona o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#como-funcionar-o-casie)
    * [Software do CASIE]
        * [Acionamento da válvula]
        * [ Informações geradas]
-       * [Formas: Manual e Automática]
+       * [Formas]
+          - Automática
+          - Manual
    * [Utilização do site:]
        * [Estatísticas]
 * [Informações técnicas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
     * [Materiais](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#materiais)
-    * [Protótipo]
+    * [Protótipo](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#prot%C3%B3tipo)
     
 * [Página Web]
 * [Para mais informações](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-mais-informa%C3%A7%C3%B5es)
@@ -36,7 +38,15 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
   A finalidade do projeto é levar informações sobre o estado de características que influenciam na vida da planta. Além de obter opções para cuidar da umidade e alimentação da vegetação. As informações podem ser acessadas apenas ao entrar no [site]().
   ### Como funcionar o CASIE
   
+  ### Software do CASIE
   
+  ##### [Acionamento da Válvula]
+  
+  ##### [Informações Geradas]
+  
+  ##### [Formas]
+   * Automática
+   * Manual
   
   
   ## Informações Técnicas

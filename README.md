@@ -11,12 +11,11 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
    * [Para quê serve o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#para-qu%C3%AA-serve-o-casie)
 * [Manual do Usuário](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#manual)
    * [Como funciona o CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#como-funcionar-o-casie)
-   * [Software do CASIE]
+   * [Software do CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#software-do-casie)
        * [Acionamento da válvula]
-       * [ Informações geradas]
-       * [Formas]
-          - [Automática]
-          - [Manual]
+       * [ Informações geradas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-geradas)
+       * [Formas para acionar](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#formas)
+       
    * [Utilização do site:]
        * [Estatísticas]
 * [Informações técnicas](https://github.com/pizza2u/Projeto_CASIE/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)

@@ -1,6 +1,6 @@
 # CASIE - Controle Automatizado do Sistema de Irrigação
 
-![CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/CASIE.png)
+![CASIE](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/CASIE_Easy-Resize.com%20(1).jpg)
 
 Projeto da 3ª avaliação da disciplina de Técnicas de Programação 2019.2
 

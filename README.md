@@ -16,8 +16,8 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
        * [Estatísticas]
 * [Informações técnicas]
 * [Página Web]
-* [Para mais informações]
-    * [Contato]
+* [Para mais informações]()
+    * [Contato]()
 
 
  ## Sobre CASIE 
@@ -45,7 +45,7 @@ CASIE, ou Controle automatizado do sistema de irrigação, é um projeto desenvo
   
   
   ## Para mais informações
-     #### Contato
+ #### Contato
   
   * Ildja 
   * Victor 

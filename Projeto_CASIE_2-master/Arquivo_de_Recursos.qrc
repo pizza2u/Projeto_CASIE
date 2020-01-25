@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>Imagens/planofundo.jpg</file>
+        <file>Imagens/Botão-Desliga-em-png-queroiamgem-Ceiça-Crispim (1).jpg</file>
+        <file>Imagens/Botão-Desliga-em-png-queroiamgem-Ceiça-Crispim (1).png</file>
+        <file>Imagens/ICONE_IRRI.jpg</file>
+        <file>Imagens/ICONE_IRRI.png</file>
+        <file>Imagens/icone_irrigacao.jpg</file>
+        <file>Imagens/icone_irrigacao.png</file>
+        <file>Imagens/off-1292831_960_720.jpg</file>
+        <file>Imagens/off-1292831_960_720.webp</file>
+        <file>Imagens/tela fundo.jpg</file>
+        <file>Imagens/conectar.png</file>
+        <file>Imagens/desligar sistema.png</file>
+        <file>Imagens/desligar sistema preto.png</file>
+        <file>Imagens/sair.png</file>
+        <file>Imagens/c2228848c108fb263986037ac39a3de3.png</file>
+        <file>Imagens/valvula bnt.png</file>
+        <file>Imagens/CASIE.png</file>
+        <file>Imagens/CASIE_Easy-Resize.com (1).jpg</file>
+    </qresource>
+</RCC>

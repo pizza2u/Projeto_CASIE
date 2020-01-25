@@ -55,6 +55,8 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   ![valvula](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/valvula.png)
   
   Os dados obtido com os sensores de luminosidade(LDR), e umidade do solo, são mostrados em uma caixa abaixo da conexão serial.
+  
+  
   ![dados](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/dados.png)
   
   Ao modo automático, a válvula é ligada de forma direta com a relação dos dados obtidos.

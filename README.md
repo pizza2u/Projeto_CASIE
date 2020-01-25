@@ -45,8 +45,17 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   ### Software do CASIE
    O software do programa foi projetado na interface QT Creator como forma para comandar a válvula e mostrar dados recolhidos pelos sensores.
   
-  ##### Conexão e Acionamento da Válvula
   
+  ##### Conexão e Acionamento da Válvula
+   ![interface](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/interface.1.png)
+   
+   Utilizando a porta serial e a velocidade para realizar a conexão, definido pelo usuário. Abaixo, é definido os **status**, se está conectado ou desconectado.
+   
+   É importante salienta, que o acionamento da válvula é realizada com a utilização de um botão, que somente é ativado no modo manual.
+   
+  ![valvula](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/valvula.png)
+  
+  Ao modo automático, a válvula é ligada de forma direta com a relação dos dados obtidos.
   ##### Informações Geradas
   
   As principais informações que serão geradas são: Umidade do solo e luminosidade.

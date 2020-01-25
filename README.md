@@ -38,7 +38,7 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   A finalidade do projeto é levar informações sobre o estado de características que influenciam na vida da planta. Além de obter opções para cuidar da umidade e alimentação da vegetação. As informações podem ser acessadas apenas ao entrar no [site]().
   
   ### Como funcionar o CASIE
-  A priori, o funcionamento é definido a partir da interface QT Creator
+  A priori, o funcionamento é definido a partir da interface QT Creator. Com botões que facilitam a ação da irrigação,e dados que serão mostrados de acordo com os sensores utilizados.
   
   
   
@@ -51,17 +51,24 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   
   As principais informações que serão geradas são: Umidade do solo e luminosidade.
   
+  A umidade do solo ou teor em água é definida como a massa da água contida em uma amostra de solo dividido pela massa de solo seco.
+  
+  A luminosidade é um dos aspectos mais importantes na hora de escolhermos uma planta para um determinado local. 
+  
   ##### Formas
   O CASIE disponibiliza duas formas para o manuseamento da irrigação, sendo elas: automática e manual.
    *  Automática: A forma automática possui toda estrutura que oferece o acionamento da válvula de acordo com os estados que os sensores detectarem,ou seja, será ligada se as condições da planta forem inadequadas para sua vida.
-   *  Manual
+   *  Manual: O modo manual, serve para que independente da condição em que a umidade do solo e a luminosadade se encontra, delimitar a irrigação. Opção definida pelo usuário.
   
   ## Utilização do Site
   ### Estastísticas 
   ## Informações Técnicas
   
   ### Materiais
-  
+   * ESP - WROOM32
+   * Resistor 1k
+   * Jumpers
+   * Protoboard
    * Sensor de umidade do solo
    * LDR
   

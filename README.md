@@ -29,7 +29,7 @@ Aplicação do CASIE com a framework Qt e o microcontrolador NodeMCU ESP32 e Ard
 
 
  ## Sobre CASIE 
-CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolvido para disciplina de Técnicas de Programação, por alunos do curso bacharelado de Engenharia Elétrica, do Instituto Federal da Paraiba (IFPB), do campus de João Pessoa. Que tem como principal função, ser um sistema de irrigação controlada de forma automática, que visa regar as plantas de acordo com o estado em que essas se encontram, tal como a temperatura e umidade do ar, umidade do solo e a luminosidade. 
+CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolvido para disciplina de Técnicas de Programação, por alunos do curso bacharelado de Engenharia Elétrica, do Instituto Federal da Paraiba (IFPB), do campus de João Pessoa. Que tem como principal função, ser um sistema de irrigação controlada de forma automática, que visa regar as plantas de acordo com o estado em que essas se encontram, tal como a umidade do solo e a luminosidade. 
 
  * ####  `` Para quê serve o CASIE ``
   `` O CASIE é uma ferramenta que busca verificar as melhores condições de irrigação para planta, além de realizar o manejo em relação a aguagem. Mas também oferece a opção manual, caso o usuário queira realizar a prática. Além disso, enquanto os animais obtêm alimento comendo outros seres vivos, as plantas fabricam elas mesmas a matéria orgânica que lhes servem de alimento. Para isso utilizam gás carbônico proveniente do ar e água e sais minerais (nutrição inorgânica) retirados do solo.``
@@ -49,7 +49,7 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   
   ##### Informações Geradas
   
-  As principais informações que serão geradas são: Umidade do solo,umidade e temperatura do ar, e luminosidade.
+  As principais informações que serão geradas são: Umidade do solo e luminosidade.
   
   ##### Formas
    *  Automática
@@ -60,7 +60,7 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   ## Informações Técnicas
   
   ### Materiais
-   * DHT22
+  
    * Sensor de umidade do solo
    * LDR
   

@@ -68,6 +68,7 @@ CASIE (Controle automatizado do sistema de irrigação), é um projeto desenvolv
   
   ##### Formas
   O CASIE disponibiliza duas formas para o manuseamento da irrigação, sendo elas: automática e manual.
+  ![formas](https://github.com/pizza2u/Projeto_CASIE/blob/master/Imagens/selecao.png)
    *  Automática: A forma automática possui toda estrutura que oferece o acionamento da válvula de acordo com os estados que os sensores detectarem,ou seja, será ligada se as condições da planta forem inadequadas para sua vida.
    *  Manual: O modo manual, serve para que independente da condição em que a umidade do solo e a luminosadade se encontra, delimitar a irrigação. Opção definida pelo usuário.
   
